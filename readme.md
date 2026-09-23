@@ -16,6 +16,10 @@ If it doesn't work on your iOS version, Safari will not render web views and the
 
 ## Installation
 
+[Check the releases page](https://github.com/cloudrac3r/NoSafariFormKeyboard/releases/) to get the package. No Cydia repo currently.
+
+## Development
+
 Use [Theos](https://theos.dev/docs/installation).
 
 Noob quick start:
