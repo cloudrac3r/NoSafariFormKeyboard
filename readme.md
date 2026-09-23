@@ -10,7 +10,7 @@ Code inspired by Emiel Mols who found [a solution that worked.](https://gist.git
 
 ## Compatible versions
 
-I only tested on iPhone 4 running iOS 6.1.6, but the hooked files/classes/messages are in everything from iOS 4.0 and later, through to iOS 26 (the latest I could find headers for at time of writing). So it might work on those versions too.
+I only tested on iPhone 4 running iOS 6.1.3, but the hooked files/classes/messages are in everything from iOS 4.0 and later, through to iOS 26 (the latest I could find headers for at time of writing). So it might work on those versions too.
 
 If it doesn't work on your iOS version, Safari will not render web views and then crash. If this happens, uninstall the tweak. Let me know so I can update compatible versions.
 
