@@ -6,4 +6,5 @@ Description: Remove Prev/Next/Done form buttons on Safari keyboard
 Maintainer: Cadence
 Author: Cadence
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
+Depends: firmware (>= 4.0)
+Depiction: http://cydia.invoxiplaygames.uk/dp/nosafariformkeyboard.php
